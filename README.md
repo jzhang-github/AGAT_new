@@ -1,2 +1,4 @@
-# AGAT_new
-AGAT_new
+# AGAT
+This is AGAT model.
+
+AGAT [tutorial](https://jzhang-github.github.io/AGAT_new/).
